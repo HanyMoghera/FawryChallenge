@@ -35,18 +35,9 @@ Simple Java project that simulates a car factory with replaceable engines.
 
 ## How to Run
 
-Open terminal in this folder:
-
-`c:\Users\HanyM\OneDrive\Desktop\Fawry`
-
 Then run:
 
 ```powershell
 javac *.java
 java Main
 ```
-
-## Notes
-
-- Design is intentionally simple.
-- `Main` demonstrates all car types and engine replacement.
